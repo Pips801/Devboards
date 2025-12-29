@@ -7178,7 +7178,7 @@
 		(at 87.63 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8897,7 +8897,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C41410799"
+		(property "LCSC Part #" "C2898279"
 			(at 226.06 38.1 0)
 			(effects
 				(font
@@ -9166,7 +9166,7 @@
 		(at 87.63 151.13 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10079,7 +10079,7 @@
 			)
 		)
 		(property "Value" "15V"
-			(at 205.74 40.3859 90)
+			(at 205.994 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10106,6 +10106,15 @@
 			)
 		)
 		(property "Description" "Schottky diode, small symbol"
+			(at 208.28 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C41410799"
 			(at 208.28 39.37 0)
 			(effects
 				(font
