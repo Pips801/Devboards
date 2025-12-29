@@ -367,8 +367,8 @@
 				)
 			)
 		)
-		(property "Value" "20kΩ"
-			(at 0 1.43 0)
+		(property "Value" "200kΩ"
+			(at 3.556 0.0635 0)
 			(layer "F.Fab")
 			(uuid "e6c45c56-cd19-485d-964a-a7644d42b6b2")
 			(effects
@@ -402,7 +402,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4184"
+		(property "LCSC Part #" "C25811"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -638,6 +638,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -649,6 +650,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -729,6 +731,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -740,6 +743,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -841,7 +845,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R8"
-			(at 2.895 0 -90)
+			(at 2.895 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "509e8dad-d732-482f-bf4b-0bacfb95b4b9")
@@ -1240,7 +1244,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R9"
-			(at 2.895 0 -90)
+			(at 2.895 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "877b7240-942c-4b3a-9ebb-554349807a39")
@@ -1460,6 +1464,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1471,6 +1476,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1549,6 +1555,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1560,6 +1567,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1681,6 +1689,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1692,6 +1701,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1856,6 +1866,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1867,6 +1878,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2243,6 +2255,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2254,6 +2267,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2625,7 +2639,7 @@
 			)
 		)
 		(property "Value" "15V"
-			(at 0.1 1.9 180)
+			(at 3.175 0 180)
 			(layer "F.Fab")
 			(uuid "fec0b1ff-c803-4d0e-9eb2-5b27fac6392c")
 			(effects
@@ -2907,6 +2921,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2918,6 +2933,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4960,6 +4976,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4971,6 +4988,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7244,6 +7262,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7255,6 +7274,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7416,7 +7436,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R7"
-			(at 2.895 0 -90)
+			(at 2.895 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a7eed7d2-8eb6-43ab-b08a-84060dc5b1d2")
@@ -7760,6 +7780,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7771,6 +7792,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8120,7 +8142,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R10"
-			(at 2.895 0 -90)
+			(at 2.895 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "694cf3d9-6162-4cd6-a808-bbb1699ec735")
@@ -8327,6 +8349,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8338,6 +8361,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8461,6 +8485,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8472,6 +8497,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9264,6 +9290,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9275,6 +9302,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10417,7 +10445,7 @@
 			)
 		)
 		(property "Value" "TPD4E05U06DQA"
-			(at 0.01829 2.5 90)
+			(at 0.01829 7.874 180)
 			(layer "F.Fab")
 			(uuid "e8f3c88f-31f9-4828-9529-2753539a7426")
 			(effects
@@ -10979,6 +11007,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10990,6 +11019,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11900,6 +11930,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11911,6 +11942,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12953,6 +12985,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12964,6 +12997,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13138,7 +13172,7 @@
 			)
 		)
 		(property "Value" "≥48V TVS Clamp"
-			(at 0 2.1 0)
+			(at -0.3175 1.778 0)
 			(layer "F.Fab")
 			(uuid "54ae9451-872e-411c-948f-b6ca1bceacb4")
 			(effects
@@ -13434,7 +13468,7 @@
 			)
 		)
 		(property "Value" "100kΩ"
-			(at 0 1.43 0)
+			(at 4.064 0 0)
 			(layer "F.Fab")
 			(uuid "8b2ce47d-4566-4f5a-8665-1a643dace9db")
 			(effects
