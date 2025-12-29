@@ -10,7 +10,7 @@
 	(title_block
 		(title "HUSB238A PD Sink controller")
 		(date "2025-12-27")
-		(rev "Rev 2.2")
+		(rev "Rev 2.3")
 		(company "https://pips.engineering/")
 		(comment 1 "HUSB238A")
 	)
